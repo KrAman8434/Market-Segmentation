@@ -14,13 +14,6 @@ Businesses need to understand their customers to tailor marketing campaigns, pro
 
 - **File**: `customers.csv`
 - **Source**: Simulated customer data for a retail store
-- **Columns**:
-  - `CustomerID` – Unique customer identifier
-  - `Gender` – Male/Female
-  - `Age` – Customer's age
-  - `Annual Income (k$)` – Yearly income in thousands of dollars
-  - `Spending Score (1-100)` – Score assigned by the store based on customer behavior
-
 ---
 
 ## 🧠 Objectives
